@@ -19,7 +19,13 @@
 
 ## 🎯 Projenin Amacı
 
-<img align="right" alt="Library Animation" width="300" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bmo2Z3k2MHE0aXBjcGN0YW93bXd5OG9vZGF0dDl2emliNXFsN3ExZiZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/T9tZRjonSPMLtM4gsY/giphy.gif">
+<p align="center">
+  <img
+    src="https://github.com/user-attachments/assets/8b0893c9-6b78-4d34-ba95-8d2c43ce1a3a"
+    width="450"
+    alt="Running Man ASCII GIF"
+  />
+</p>
 
 Bu proje, bir **ağ temelleri** projesi olarak, TCP/IP protokol ailesinin en temel parçası olan **adreslemeyi** ve **yönlendirmeyi** öğretmeyi amaçlamaktadır. Her seviyede bir ağ diyagramı verilir: bilgisayarlar, switch'ler, router'lar ve internet. Bazı IP adresleri, maskeler ve yönlendirme girdileri eksik ya da hatalıdır. Görev, **düzenlenebilir alanları** doğru değerlerle doldurarak tüm cihazların istenen hedeflere ulaşmasını sağlamaktır.
 
