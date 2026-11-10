@@ -19,13 +19,7 @@
 
 ## 🎯 Projenin Amacı
 
-<p align="center">
-  <img
-    src="https://github.com/user-attachments/assets/8b0893c9-6b78-4d34-ba95-8d2c43ce1a3a"
-    width="450"
-    alt="Running Man ASCII GIF"
-  />
-</p>
+<img align="right" alt="Hotrace Animation" width="300" src="https://github.com/user-attachments/assets/8b0893c9-6b78-4d34-ba95-8d2c43ce1a3a"> 
 
 Bu proje, bir **ağ temelleri** projesi olarak, TCP/IP protokol ailesinin en temel parçası olan **adreslemeyi** ve **yönlendirmeyi** öğretmeyi amaçlamaktadır. Her seviyede bir ağ diyagramı verilir: bilgisayarlar, switch'ler, router'lar ve internet. Bazı IP adresleri, maskeler ve yönlendirme girdileri eksik ya da hatalıdır. Görev, **düzenlenebilir alanları** doğru değerlerle doldurarak tüm cihazların istenen hedeflere ulaşmasını sağlamaktır.
 
